@@ -1,3 +1,22 @@
+# Get API KEY
+Terminal:
+
+claude setup-token
+
+Result:
+✓ Long-lived authentication token created successfully!
+
+Your OAuth token (valid for 1 year):
+
+sk-ant-o....
+
+Store this token securely. You won't be able to see it again.
+
+Use this token by setting: export CLAUDE_CODE_OAUTH_TOKEN=<token>
+##put the token into your .env
+
+
+
 # Claude Quickstarts
 
 Claude Quickstarts is a collection of projects designed to help developers quickly get started with building  applications using the Claude API. Each quickstart provides a foundation that you can easily build upon and customize for your specific needs.
