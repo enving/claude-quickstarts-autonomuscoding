@@ -54,7 +54,7 @@ Run 1-2 of the feature tests marked as `"passes": true` that are most core to th
 For example, if this were a chat app, you should perform a test that logs into the app, sends a message, and gets a response.
 
 **If you find ANY issues (functional or visual):**
-- Mark that feature as "passes": false immediately
+- Mark that feature as "passes": false immediately in the feature_list.json
 - Add issues to a list
 - Fix all issues BEFORE moving to new features
 - This includes UI bugs like:
